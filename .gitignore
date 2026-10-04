@@ -1,0 +1,4 @@
+_raw/
+_build/tmp/
+.DS_Store
+__pycache__/

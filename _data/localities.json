@@ -1,0 +1,51 @@
+{
+ "title": "Kde koupit byt v Chebu?",
+ "intro": "Cheb patří mezi města, která nabízejí širokou škálu možností bydlení – od menších bytů pro první bydlení přes prostorné rodinné byty až po investiční nemovitosti k pronájmu. Výběr správné lokality je jedním z nejdůležitějších rozhodnutí při koupi.",
+ "items": [
+  [
+   "Skalka",
+   "oblíbená lokalita pro rodiny",
+   "Kompletní občanská vybavenost, školy, školky, obchody i sportovní areály. Blízkost vodní nádrže Skalka, cyklostezek a zeleně. Největší zájem bývá o byty 2+1 a 3+1."
+  ],
+  [
+   "Zlatý vrch",
+   "moderní bydlení s dobrou dostupností",
+   "Jedna z největších rezidenčních oblastí v Chebu, s revitalizovanými veřejnými prostory, zelení, hřišti a parkováním. Byty po rekonstrukci se zde prodávají velmi dobře."
+  ],
+  [
+   "Centrum",
+   "vše na dosah",
+   "Jedinečná atmosféra historického centra, restaurace, kavárny, obchody, úřady i kultura v docházkové vzdálenosti. Vyhledávané i jako investiční byty k pronájmu."
+  ],
+  [
+   "Hradčany",
+   "stabilní rezidenční lokalita",
+   "Kombinace bytové zástavby, zeleně a dobré dostupnosti. Pro mnoho kupujících ideální poměr mezi cenou a kvalitou bydlení."
+  ],
+  [
+   "Háje",
+   "více klidu a soukromí",
+   "Větší podíl rodinných domů a menší hustota zástavby. Pro ty, kdo chtějí spojit výhody města s blízkostí přírody."
+  ],
+  [
+   "Spáleniště",
+   "dostupné bydlení",
+   "Tradiční sídliště s širokou nabídkou bytů různých velikostí a cenových kategorií, dobrá občanská vybavenost."
+  ],
+  [
+   "Podhrad",
+   "klidná rezidenční část",
+   "Převládá rodinná zástavba a více soukromí než v centrálních částech, blízkost přírody a dobrá dostupnost centra."
+  ],
+  [
+   "Podhoří",
+   "bydlení blízko přírody",
+   "Spojení přírody a městské dostupnosti nedaleko přehrady Skalka. Lidé oceňují možnosti aktivního odpočinku."
+  ],
+  [
+   "Dolní Dvory",
+   "rozvíjející se lokalita",
+   "Dobrá dopravní dostupnost, rychlé spojení do centra i na hlavní tahy. Zajímavá alternativa k tradičním sídlištím."
+  ]
+ ]
+}

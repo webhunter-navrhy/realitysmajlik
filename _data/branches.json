@@ -1,0 +1,37 @@
+[
+ {
+  "id": "praha",
+  "city": "Praha",
+  "address": "Blanická 1008/28",
+  "zip": "120 00 Praha 2 – Vinohrady",
+  "img": "",
+  "team": [
+   "veberova"
+  ],
+  "email": "praha@realitysmajlik.cz",
+  "note": "Sídlo společnosti"
+ },
+ {
+  "id": "plzen",
+  "city": "Plzeň",
+  "address": "Purkyňova 13",
+  "zip": "301 00 Plzeň",
+  "img": "plzen",
+  "team": [
+   "veberova",
+   "grossl"
+  ]
+ },
+ {
+  "id": "cheb",
+  "city": "Cheb",
+  "address": "Májová 756/18",
+  "zip": "350 02 Cheb",
+  "img": "cheb",
+  "team": [
+   "veberova",
+   "boudova",
+   "vejnarova"
+  ]
+ }
+]

@@ -1,0 +1,115 @@
+{
+ "routes": [
+  {
+   "k": "Chci prodat",
+   "t": "Prodáme Vaši nemovitost",
+   "d": "Reálné nacenění, kvalitní prohlídky, smlouvy i předání. Domluvte si nezávaznou osobní schůzku s naším makléřem.",
+   "href": "prodat.html",
+   "img": "vila"
+  },
+  {
+   "k": "Chci koupit",
+   "t": "Najdeme Vám domov",
+   "d": "Byty, rodinné domy, chalupy, pozemky i komerční prostory na Chebsku, Plzeňsku a v Praze.",
+   "href": "nabidka.html",
+   "img": "interier"
+  },
+  {
+   "k": "Energetický průkaz",
+   "t": "Zajistíme PENB",
+   "d": "Průkaz energetické náročnosti budovy potřebujete při prodeji i pronájmu. Postaráme se o něj.",
+   "href": "prodat.html#penb",
+   "img": "kuchyne"
+  },
+  {
+   "k": "Aktuálně poptáváme",
+   "t": "Hledáme pro naše klienty",
+   "d": "Chata u vody, byt na Skalce, pozemek pro autosalon, bytový dům v Chebu. Nabízíte něco podobného?",
+   "href": "prodat.html#poptavame",
+   "img": "chalupa"
+  },
+  {
+   "k": "Privatizace bytů",
+   "t": "Kompletní servis",
+   "d": "Bydlíte v obecním bytě, který je nebo bude privatizován? Poradíme, vyřídíme dokumenty a zajistíme financování.",
+   "href": "prodat.html#privatizace",
+   "img": "cheb"
+  }
+ ],
+ "included": [
+  "profesionální vystupování makléře",
+  "reálné nacenění Vaší nemovitosti",
+  "kvalitní vedení prohlídek a jednání se zájemci",
+  "kvalitně vypracované smlouvy",
+  "přítomnost makléře u veškerých jednání potřebných k prodeji či pronájmu",
+  "zajištění znaleckého odhadu",
+  "zajištění průkazu energetické náročnosti budovy",
+  "předání nemovitosti novému majiteli a zajištění přepisu energií a u správce"
+ ],
+ "exclusive": [
+  "Placená zvýrazněná inzerce na nejnavštěvovanějších inzertních serverech, popř. i placená inzerce v tištěných lokálních médiích",
+  "Umístění informační plachty o prodeji nemovitosti",
+  "Úschova peněžních prostředků u advokáta, notáře nebo banky",
+  "Vypracování daňového přiznání k dani z nabytí nemovitých věcí a jeho doručení finančnímu úřadu",
+  "Slevy u našich partnerů a dodavatelů na jejich služby a zboží"
+ ],
+ "wanted": [
+  "chatu u vody, nejlépe u nádrže Skalka, Cheb",
+  "byt 1+1 nebo 2+1 na sídlišti Skalka, Cheb",
+  "pozemek cca 10 000 m² na autosalon – Cheb a okolí",
+  "bytový dům s minimálně 3 byty, Cheb"
+ ],
+ "privatization": [
+  "Bydlíte v obecním bytě, který je nebo bude privatizován? Nabízíme Vám kompletní služby, které Vám zajistí maximální využití této situace. Poradíme Vám optimální řešení a pomůžeme Vám vyřídit všechny potřebné dokumenty pro privatizaci Vašeho bytu.",
+  "Zajistíme pro Vás nezbytné finance i k úhradě případných nedoplatků na nájemném, energiích a poplatcích.",
+  "Najdeme vhodného kupujícího na Váš byt a pomůžeme Vám najít novou nemovitost odpovídající Vašim potřebám, kterou si díky naší pomoci budete moct dovolit."
+ ],
+ "penb": {
+  "intro": "Od 1. 1. 2013 platí novela zákona č. 406/2000 Sb., o hospodaření energií.",
+  "owner_building": [
+   "zajistit zpracování PENB při prodeji nebo pronájmu budovy",
+   "předložit PENB nebo jeho ověřenou kopii možnému kupujícímu nebo nájemci před uzavřením smlouvy",
+   "uvést ukazatele energetické náročnosti z PENB v informačních a reklamních materiálech"
+  ],
+  "owner_unit": [
+   "předložit PENB nebo jeho ověřenou kopii možnému kupujícímu jednotky před uzavřením smlouvy",
+   "uvést ukazatele energetické náročnosti z PENB v informačních a reklamních materiálech při prodeji jednotky"
+  ],
+  "note": "Pokud vlastníkovi jednotky nebude na písemné vyžádání předán PENB od společenství vlastníků, může jej nahradit vyúčtováním dodávek elektřiny, plynu a tepelné energie za uplynulé 3 roky."
+ },
+ "partners": [
+  {
+   "t": "Kompletní rekonstrukce bytu",
+   "d": "Bytová jádra, podlahy, příčky, elektroinstalace, okna, malířské a zámečnické práce. Pro region Prahy, Středních Čech a Plzně se slevou 20 %.",
+   "web": "www.instalatermodrany.cz"
+  },
+  {
+   "t": "Kovovýroba",
+   "d": "Zábradlí, ploty, schodiště, vrata, mříže, rámy i nosné konstrukce na míru, práce s nerezí.",
+   "web": "www.zamecnik-modrany.cz"
+  },
+  {
+   "t": "Stěhování",
+   "d": "Kompletní stěhovací servis s pojištěním, montáž nábytku, skladovací prostory, víkendy a svátky bez příplatků.",
+   "web": "extra-stehovani.com"
+  }
+ ],
+ "career": {
+  "offer": [
+   "Motivační systém ohodnocení podle výsledků + speciální odměny",
+   "Školení zdarma",
+   "Asistence vedoucího makléře v terénu",
+   "Jistota stabilního zázemí",
+   "Reklama pro Vaši osobu, pracovní zázemí a inzerce zdarma",
+   "Opravdový tým s přátelskou atmosférou",
+   "Možnost pracovat ve Vámi vybrané lokalitě"
+  ],
+  "need": [
+   "Cit pro obchod",
+   "Schopnost řešit problémy a vést obchodní případ",
+   "Vyjednávací a komunikační schopnosti",
+   "Kultivované vystupování a vzhled",
+   "Zájem o realitní trh"
+  ]
+ }
+}

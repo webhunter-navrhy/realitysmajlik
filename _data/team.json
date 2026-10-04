@@ -1,0 +1,30 @@
+{
+ "veberova": {
+  "name": "Bc. Monika Veberová",
+  "role": "jednatelka společnosti",
+  "phone": "+420 724 657 435",
+  "email": "veberova@realitysmajlik.cz",
+  "langs": "Deutsch, English"
+ },
+ "grossl": {
+  "name": "Bc. Jana (Kohoutová) Grössl",
+  "role": "realitní makléřka",
+  "phone": "+420 724 657 305",
+  "email": "kohoutova@realitysmajlik.cz",
+  "note": "spolupracující realitní makléřka, IČ 734 047 48"
+ },
+ "boudova": {
+  "name": "Gabriela Boudová",
+  "role": "realitní makléřka",
+  "phone": "+420 774 633 623",
+  "email": "boudova@realitysmajlik.cz",
+  "note": "spolupracující realitní makléřka, IČ 491 66 620"
+ },
+ "vejnarova": {
+  "name": "Libuše Vejnarová",
+  "role": "realitní makléřka",
+  "phone": "+420 604 344 904",
+  "email": "vejnarova@realitysmajlik.cz",
+  "note": "spolupracující realitní makléřka, IČ 497 714 93"
+ }
+}
